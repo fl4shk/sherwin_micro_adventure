@@ -1,7 +1,7 @@
-Sherwin's Adventure
+Sherwin's Micro Adventure
 ===================
 
-This is a GBA homebrew platformer game that is not yet finished.
+This is a small GBA homebrew platformer game that is not yet finished.
 
 
 # Dependencies for Building
