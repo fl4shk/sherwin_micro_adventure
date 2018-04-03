@@ -1,0 +1,5 @@
+; Start with carry clear
+  lda xpos1
+  sbc xpos2 ; Note will subtract n-1
+  sbc #SIZE2-1
+  adc #SIZE1+SIZE2-1 ; Carry set if overlap
